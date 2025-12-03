@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ShantiaGhodsi%&fontSize=90)
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Backend development, system design, and small-scale hardware–software integration projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source backend tools, Node.js/Express projects, and Arduino/embedded-systems experiments.<br><br>🤝 I’m looking for help with:<br>Improving architecture in scalable applications and best practices in DevOps.<br><br>🌱 I’m currently learning:<br>Advanced data structures, operating systems, and cloud fundamentals (Docker, Linux, CI/CD).<br><br>💬 Ask me about:<br>Node.js, C/C++, Arduino, logic circuits, microcontrollers, and clean-code practices.<br><br>⚡ Fun fact:<br>I love mixing software with electronics — nothing beats seeing code come to life in
 
